@@ -1,5 +1,5 @@
 {
-    "name": "mateusjunges/laravel-pt-br-validation-messages",
+    "name": "mateusjunges/laravel-pt-br-translations",
     "description": "Laravel validation messages in Portuguese",
     "type": "library",
     "require-dev": {
@@ -16,13 +16,13 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Junges\\PtBrValidationMessages\\": "src/"
+            "Junges\\PtBrTranslations\\": "src/"
         }
     },
     "extra": {
         "laravel" : {
             "providers": [
-                "Junges\\PtBrValidationMessages\\PtBrValidationMessagesServiceProvider"
+                "Junges\\PtBrTranslations\\PtBrTranslationsServiceProvider"
             ]
         }
     }

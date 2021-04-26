@@ -4,7 +4,7 @@ namespace Junges\PtBrValidationMessages\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
-class PtBrValidationMessagesServiceProvider extends ServiceProvider
+class PtBrTranslationsServiceProvider extends ServiceProvider
 {
     public function register()
     {
