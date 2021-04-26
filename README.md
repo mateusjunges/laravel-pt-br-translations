@@ -1,0 +1,1 @@
+# Laravel Portuguese Validation Messages
