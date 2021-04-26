@@ -2,7 +2,7 @@
 
 ## Installation
 ```bash
-composer require mateusjunges/laravel-pt-br-validation-messages --dev
+composer require mateusjunges/laravel-pt-br-translations --dev
 ```
 
 Publish the translation files to your `resources/lang/pt-br` using the following comand:

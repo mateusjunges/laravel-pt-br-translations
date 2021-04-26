@@ -1,6 +1,6 @@
 <?php
 
-namespace Junges\PtBrValidationMessages\Providers;
+namespace Junges\PtBrTranslations\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
