@@ -9,8 +9,21 @@
     "authors": [
         {
             "name": "mateusjunges",
-            "email": "mateus@junges.dev"
+            "email": "mateus@junges.dev",
+            "role": "Software Engineer"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Junges\\PtBrValidationMessages\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel" : {
+            "providers": [
+                "Junges\\PtBrValidationMessages\\PtBrValidationMessagesServiceProvider"
+            ]
+        }
+    }
 }
