@@ -15,6 +15,6 @@ class PtBrValidationMessagesServiceProvider extends ServiceProvider
     {
         $this->publishes([
             __DIR__."/../../resources/lang/pt-br" => resource_path('lang/pt-br')
-        ], 'pt-br-translations');
+        ], 'laravel-pt-br-translations');
     }
 }
