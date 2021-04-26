@@ -1,0 +1,16 @@
+{
+    "name": "mateusjunges/laravel-pt-br-validation-messages",
+    "description": "Laravel validation messages in Portuguese",
+    "type": "library",
+    "require-dev": {
+        "orchestra/testbench": "^6.17"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mateusjunges",
+            "email": "mateus@junges.dev"
+        }
+    ],
+    "require": {}
+}
