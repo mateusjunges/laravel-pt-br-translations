@@ -1,5 +1,7 @@
 # Laravel Portuguese Validation Messages
 
+This package provides the PT-BR translations for laravel validation messages.
+
 ## Installation
 ```bash
 composer require mateusjunges/laravel-pt-br-translations --dev
